@@ -1,0 +1,3 @@
+Age,Male,ATAChestPain,NAPChestPain,ASYChestPain,TAChestPain,RestingBP,Cholesterol,FastingBS,MaxHR,RestECGNORM,RestECGST,RestECGLVH,ExerciseAngina,FlatSTSlope,UPSTSlope,Oldpeak,DownSTSlope
+False,True,False,False,True,False,False,False,True,False,False,False,False,True,False,True,False,False
+11,1,3,4,1,5,14,13,1,12,8,10,9,1,2,1,7,6
