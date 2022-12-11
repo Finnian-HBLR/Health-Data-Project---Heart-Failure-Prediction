@@ -15,7 +15,7 @@ I consider this my magnum opus of data processing. However, much was learnt and 
 * Data cleaning
 * Automatic multi algorithm evauating
 * Model combining
-* Neural Networks
+* Neural networks
 * Automatic neural network optimizer
 * Traditional data analysis techniques 
     * Linear regression
