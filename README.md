@@ -13,7 +13,7 @@ I consider this my magnum opus of data processing. However, much was learnt and 
 * Data exploration
 * Data repair (KNN imputer) 
 * Data cleaning
-* Automatic multi algorithm evauating
+* Automatic multi-algorithm evaluating
 * Model combining
 * Neural networks
 * Automatic neural network optimizer
